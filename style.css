@@ -1,0 +1,145 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body { 
+	background-color: white; 
+	max-width:100%; 
+	margin:auto
+}
+
+.name{
+	background-color: darkslateblue; 
+	padding-bottom: 20px; 
+	padding-top:20px; 
+	color:whitesmoke; 
+	max-width:100%;
+	margin:auto;
+	text-align: center
+}
+
+.nav{
+	background-color: mediumpurple;  
+	max-width:85%; 
+	font-size:18pt; 
+	padding-top:20px; 
+	padding-bottom:20px; 
+	color:whitesmoke; 
+	margin:auto;
+	text-align: center
+}
+
+body { 
+	background-color:#FFDBF7; 
+	max-width:85%; 
+	margin:auto
+} 
+
+img {
+	float:left; 
+	max-width: 40%; 
+	padding: 10px; 
+	padding-right: 15px; 
+}
+main{
+	background-color:#FFD9FD
+}
+h1{
+	color:#000000; 
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; 
+	font-size: 32pt; 
+	text-align: center
+}
+
+h2{
+	color: #000000; 
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; 
+	font-size: 25pt; 
+	text-align:center
+}
+
+h3{
+	color: #000000; 
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; 
+	font-size: 18pt; 
+	max-width: 85%;
+}
+
+p{
+	color: #2B0044;
+	padding: 3px; 
+	line-height: 1.5em; 
+	text-indent: 25px; 
+	font-size: 14pt;
+}
+.indextable{
+	clear:left;
+	table-layout: fixed;
+}
+li{
+	display:inline;
+	text-align: center; 
+	margin-right:50px; 
+	margin-left:50px; 
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; 
+	font-weight:bold;
+}
+
+.porttable{
+	table-layout:fixed; 
+	width: 90%; 
+	border-color: black; 
+	padding:5px; 
+	text-align: center; 
+	align-content: center; 
+	background-color: white; 
+	margin:auto;
+}
+
+td,th{
+	 border:.5px black; 
+	border-style:solid;
+	padding-top:7px; 
+	width:100%; 
+	padding-bottom:7px;
+}
+
+.tableimg {
+	margin:auto; 
+	padding-left: 25%;
+}
+
+footer{
+	background-color:mediumpurple; 
+	padding:5px;
+	max-width:100%;
+}
+
+
+.footernav {
+	max-width:100%; 
+	font-size:18pt; 
+	padding-top:12px; 
+	padding-bottom:2px; 
+	color:#FCDBFF; 
+	margin:auto;
+	text-align: center
+}
+
+.footer2 {
+	color:#FCDBFF;
+	font-style: italic;
+	margin:auto;
+	text-align:center;
+	font-size:14pt;
+	padding-top:2px;
+	padding-bottom:12px;
+}
+
+
+.tableheader {
+	font-size:15pt;
+}
+
+.img {
+	max-width:200px;
+}
